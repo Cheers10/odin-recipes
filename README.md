@@ -9,7 +9,7 @@ Re-read a resource and am feeling a bit more empowered to make single line commi
 
 Alright, after the first recipe page has been completed I am feeling pretty good about the html skills. Strengthened lists (ordered and unordered), links, and images. My commits are getting a little better, I think. The git workflow is making a bit more sense, in a learn-by-doing kind of way, but I'm afraid this first project out may be a little bit sloppy presentationally. Evidence of the learning curve, I suppose. Looking forward to adding the other two pages. 
 
-Today I fixed a few errors, one wherein I used "eng" instead on "en" for the English lang attribute. Also, I added forgotten nonrefferer tags to my absolute links. I think the project is mostly done now. Tomorrow I will check for typos and complete. I'll be interested to see the project from the github view. I'm worried my commits are nonsense. 
+Today I fixed a few errors, one wherein I used "eng" instead of "en" for the English lang attribute. Also, I added forgotten nonrefferer tags to my absolute links. I think the project is mostly done now. Tomorrow I will check for typos and complete. I'll be interested to see the project from the github view. I'm worried my commits are nonsense. 
 
 Final thoughts: I can git push more. There was a finality to it that I found alarming, but I could have seen and adjusted my commit strategy earlier. There is a probably a way to do this without the push, I'm hoping to bump into it down the line. My commits did not end up being nonsense, i think. They are simple and still probably have some ignorant, semantic issues, but thats alright for now. Overall, this exercise was super duper necessary for me to wrap my head around the git workflow. 
 
